@@ -1,0 +1,11 @@
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-family: "Poppins";
+  box-sizing: border-box;
+}
